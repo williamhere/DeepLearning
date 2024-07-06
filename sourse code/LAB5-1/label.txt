@@ -1,0 +1,5 @@
+0 bike
+1 car
+2 cats
+3 dogs
+4 ox
