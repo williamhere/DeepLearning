@@ -1,0 +1,1 @@
+實現並優化EfficientDet、ResNet18和DeepLab模型，在Raspberry Pi和EdgeTPU上部署推理。準備資料集（efficient_dataset.zip和label.txt）。訓練與轉換模型，使用相關Jupyter筆記本和腳本（如Retrain_EfficientDet_Lite.ipynb、resnet18_Student.ipynb、deeplab_tflite.ipynb）。在Ubuntu上安裝EdgeTPU Compiler並將模型部署到Raspberry Pi。成功展示了高效推理和模型優化。
